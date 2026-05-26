@@ -1,6 +1,11 @@
 MIT License
 
-Copyright (c) 2026 Ivan Trusov
+This is a port and modernisation of the original HLDI software and firmware
+by AlphaCrow (https://www.radiokot.ru/forum/viewtopic.php?f=8&t=119089).
+Original authorship and any upstream terms remain with the original author;
+please credit AlphaCrow when reusing this work.
+
+Copyright (c) 2024 HLDI port contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

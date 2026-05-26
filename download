@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Config written at runtime
+.config/
+
+# PlatformIO / build
+.pio/
+.pioenvs/
+*.elf
+*.bin
+*.hex
+*.o
+
+# OS / editor
+.DS_Store
+*.swp
+.vscode/
+.idea/
