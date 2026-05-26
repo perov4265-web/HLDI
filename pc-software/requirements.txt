@@ -1,0 +1,5 @@
+PySide6>=6.5
+pyserial>=3.5
+opencv-python>=4.5   ; optional — only needed for the alignment camera
+numpy>=1.21          ; required by opencv
+bleak>=0.21          ; optional — only needed for Bluetooth (BLE) discovery/connection
